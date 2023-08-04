@@ -20,6 +20,7 @@
 * 我有钱买域名，但是一般来说我只会买一年期的，因为第二年交费基本上就是第一年的五倍不止了（笑
 * 如果你想要开我的盒，你可以先考虑在一个**易拉罐身上花那么多钱那么多精力值不值**，如果是的话可以**重新考虑你的人生抉择**了。:P
 * 我很讨厌和xxs和网络公主讲话，so如果你是这两者其一，看见我就别想着冲我了马上绕道走人，你和我对线只能对到虚空，锁不到我的。
+* 我和[Wer](https://github.com/WerewolfwolfyXD)认识，关系还挺好，但是如果你想打着Wer的旗号到我这骗吃骗喝......你就别想着完整的回去了。
 
 #### 我的Github数据
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=WhitePhosphor&show_icons=true&locale=cn&hide_border=true&theme=buefy" alt="huxk's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhitePhosphor&layout=compact&locale=cn&hide_border=true&theme=buefy" /> |
